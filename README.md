@@ -4,6 +4,6 @@
 
 |       | Individual work 1 | Group work 2 | Group work 3 | Group work 4 | Test |
 |-------|-------------------|--------------|--------------|--------------|------|
-| Grade | ...               | ...          | ...          | ...          | ...  |
+| Grade | 11                | 16           | 16           | 16           | 11.7 |
 
-**Final Grade**: `...`
+**Final Grade**: `15`
